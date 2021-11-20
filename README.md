@@ -22,9 +22,9 @@ In this method for solving Sudoku puzzle
 
 ---
 
-> We will assign numto the row and col
-> If we find same num in the same row or same column or in the specific 3*3 matrix.
-> We match the next number
+1. We will assign numto the row and col
+2. If we find same num in the same row or same column or in the specific 3*3 matrix.
+3. We match the next number
 
 # Step 3: Validating the entries
 
