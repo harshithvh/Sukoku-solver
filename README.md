@@ -1,7 +1,7 @@
 # Sukoku-solver
 Python
 
-<img align="left" alt="Visual Studio Code" width="1080px" src="https://gazettereview.com/wp-content/uploads/2017/09/uber-taxi-for-web-0-1.jpg" />
+<img align="left" alt="Visual Studio Code" width="1080px" src="https://repository-images.githubusercontent.com/356149741/2207af00-a4ef-11eb-844a-e3df4fc82eaa" />
 
 # About
 
