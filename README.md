@@ -9,9 +9,9 @@ Python
 
 Sudoku is one of the most popular puzzle games of all time. As a logic puzzle, Sudoku is also an excellent brain game. Being a tech savvy you can solve this by using your python programming skills. By using basic programming concepts like functions, loops and conditions we can build a Sudoku solver program.
 
->> Sodoku is played on a grid of 9 X 9 spaces
->> Within the rows and columns are 9 squares
->> Each row, column needs to be filled out with the numbers 1-9, without repeating any numbers within the row, column or grid
+* Sodoku is played on a grid of 9 X 9 spaces
+* Within the rows and columns are 9 squares
+* Each row, column needs to be filled out with the numbers 1-9, without repeating any numbers within the row, column or grid
 
 # Step 1: Creating a Sudoku solver
 
